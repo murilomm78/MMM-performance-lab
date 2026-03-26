@@ -1,0 +1,1 @@
+{\n  "name": "mmm-performance-lab",\n  "version": "1.0.0",\n  "dependencies": {\n    "expo": "~45.0.0",\n    "react": "^17.0.1",\n    "react-native": "^0.64.0",\n    "firebase": "^9.1.0",\n    "zustand": "^3.5.10",\n    "@react-navigation/native": "^6.0.0",\n    "@react-navigation/stack": "^6.0.0"\n  }\n}
